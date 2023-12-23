@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IamJas6
 - 👀 I’m interested in Coding, Learning, Gaming, Programming, Music🎧
-- 🌱 I’m currently learning C# SHARP
-- 😍 I've knowledge in JAVA Programming
+- 🌱 I’m currently learning R Programming
+- 😍 I've knowledge in PYTHON & JAVA Programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, Reach Me By my email suhailuddin2002@gmail.com
 <!---
