@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @IamJas6
-- 👀 I’m interested in Coding, Learning, Gaming, Programming, Music🎧
-- 🌱 I’m currently learning R Programming
-- 😍 I've knowledge in PYTHON & JAVA Programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me, Reach Me By my email suhailuddin2002@gmail.com
-<!---
-IamJas6/IamJas6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi there! I'm Mohammed Suhail Uddin, a passionate software developer 🖥️ and tech enthusiast 🚀. 
+
+I love turning ideas into reality through code 🌟. 
+
+My favorite languages are Python 🐍 and Java ☕️, but I'm always eager to learn new technologies. 
+
+Currently diving deep into data science 📊 and machine learning 🤖. 
+
+When I'm not coding, you can find me hiking 🥾, gaming 🎮, or exploring the latest in tech trends 🌐. 
+
+Let's connect and collaborate on exciting projects! 🌟
