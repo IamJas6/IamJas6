@@ -1,4 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=IamJas6.IamJas6" />
 <br clear="both">
 
 <div align="center">
@@ -44,7 +43,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/IamJas6/IamJas6/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/IamJas6/IamJas6/output/github-contribution-grid-snake-dark.svg" />
   
   <br/><br/><br/>
 </div>
