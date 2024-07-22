@@ -48,9 +48,9 @@
 <div align="center">
   
 # 📊 Contribution Graph:
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IamJas6&radius=16&theme=github-dark&area=true&order=5&hide_border=false&hide_title=false&custom_title=Contribution%20Graph&point=ff0000&line=00ff95&area_color=00ff95&color=FFFFFF&title_color=a6ff00" height="300" alt="activity-graph graph"  />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IamJas6&radius=16&theme=github-dark&area=true&order=5&hide_border=false&hide_title=false&custom_title=Contribution%20Graph&point=ff0000&line=00ff95&area_color=00ff95&color=FFFFFF&title_color=a6ff00" height="300" alt="activity-graph graph" />
 
-<<br/>
+<br/>
 
 # 📊 GitHub Stats:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IamJas6&theme=dark&border=true" alt="IamJas6" /></p>
@@ -58,6 +58,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamJas6&theme=dark&border=true&include_all_commits=true&count_private=false&layout=compact" alt="myh24" /></p>
 </div>
 
+<br/>
 
 <div align="center">
   
@@ -65,6 +66,7 @@
 <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true">
 </div>
 
+<br/>
 
 <div align="center">
   
@@ -72,7 +74,7 @@
 <img align="center" src="https://github-contributor-stats.vercel.app/api?username=IamJas6&limit=5&theme=dark&combine_all_yearly_contributions=true">
 </div>
 
-  
+</br>  
 <div align="center">
   <h2 align="center">🐍 My Contributions 🐍</h2>
   <br>
