@@ -1,9 +1,14 @@
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=IamJas6.IamJas6" />
 <br clear="both">
 
 <div align="center">
   <img height="500" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"  />
 </div>
+
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Mohammed+Suhail+Uddin+👨🏻‍💻;" />
+</h1>
 
 <h1 align="center">Hi 👋, I'm Mohammed Suhail Uddin <img height="40" src="https://i.pinimg.com/564x/f7/26/62/f72662c9ccf1c7d437827a374cb8d38e.jpg"  /></h1>
 <h3 align="center">Discover a selection of innovative projects within this repository, including sophisticated Employee CRUD applications and extensive e-commerce solutions. Crafted with Python and Django, these projects highlight advanced approaches to enhancing digital experiences.</h3>
@@ -34,6 +39,18 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=IamJas6&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/IamJas6/IamJas6/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=IamJas6&icon=10&color=3)](https://visitcount.itsvg.in)
