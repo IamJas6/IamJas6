@@ -55,16 +55,16 @@
 <<br/>
 
 # 📊 GitHub Stats:
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IamJas6&theme=dark&hide_border=true" alt="IamJas6" /></p>
-<p></p><img align="center" src="https://github-readme-stats.vercel.app/api?username=IamJas6&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="IamJas6" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamJas6&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="myh24" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IamJas6&theme=dark&border=true" alt="IamJas6" /></p>
+<p></p><img align="center" src="https://github-readme-stats.vercel.app/api?username=IamJas6&theme=dark&border=true&include_all_commits=true&count_private=false" alt="IamJas6" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamJas6&theme=dark&border=true&include_all_commits=true&count_private=false&layout=compact" alt="myh24" /></p>
 </div>
 
 
 <div align="center">
   
 ### ✍️ Random Dev Quote
-<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true">
 </div>
 
 
