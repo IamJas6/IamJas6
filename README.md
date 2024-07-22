@@ -75,13 +75,15 @@
 </div>
 
 </br>  
+
 <div align="center">
   <h2 align="center">🐍 My Contributions 🐍</h2>
   <br>
   <img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/IamJas6/IamJas6/output/github-contribution-grid-snake-dark.svg" />
-  <br/>
 </div>
+
 <br/>
+
 <div align="center">
 <img align="center" src="https://visitcount.itsvg.in/api?id=IamJas6&icon=10&color=3)](https://visitcount.itsvg.in">
 </div>
