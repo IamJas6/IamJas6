@@ -113,6 +113,6 @@
 
 <div align="center">
   
-![Visitor Count](https://profile-counter.glitch.me/IamJas6/count.svg)
+![](https://komarev.com/ghpvc/?username=IamJas6)
 
 </div>
