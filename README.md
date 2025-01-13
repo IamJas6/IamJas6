@@ -1,5 +1,5 @@
 <h1 align="center"><h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Mohammed+Suhail+Uddin+👨🏻‍💻;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Mohammed+Suhail+Uddin+👨🏻‍💻;&color=00FF00" />
 <img height="40" src="https://i.pinimg.com/564x/f7/26/62/f72662c9ccf1c7d437827a374cb8d38e.jpg"  /></h1></h1>
 
 <div align="center">
