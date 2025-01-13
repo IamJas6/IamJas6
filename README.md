@@ -112,5 +112,5 @@
 <br/>
 
 <div align="center">
-<img align="center" src="https://visitcount.itsvg.in/api?id=IamJas6&icon=10&color=3)](https://visitcount.itsvg.in">
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=IamJas6&left_color=green&right_color=red&left_text=Visitors" />
 </div>
