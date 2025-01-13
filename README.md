@@ -1,5 +1,5 @@
 <h1 align="center"><h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Mohammed+Suhail+Uddin+👨🏻‍💻;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Mohammed+Suhail+Uddin+👨🏻‍💻  ;" />
 <img height="40" src="https://i.pinimg.com/564x/f7/26/62/f72662c9ccf1c7d437827a374cb8d38e.jpg"  /></h1></h1>
 
 <div align="center">
@@ -12,26 +12,26 @@
 
 <br/>
 
+<center>
+  
 # 💫 About Me:
-🔭 I’m currently working on 👨🏻‍💻CRM Application using 🐍Dango and Python<br><br>
+
+</center>
+🔭I am open to new job opportunities, seeking roles where I can apply my skills in 🐍Dango, Python, SQl, and web development to contribute to innovative projects.<br><br>
 <img align="right" height="200" src="https://i.pinimg.com/originals/aa/59/d1/aa59d139b93dde70ff207187c9f1d8bd.gif"  />
-🌱 I’m currently learning 🌨️AWS,🐍Django,☸️Django_Rest_Framework,📝Data Analytics<br><br>👯 I’m looking to collaborate on 🎯Project-A<br><br>🤝 I’m looking for help with ⚙️API Creating Using ☸️Django_Rest_Framework<br><br>👨‍💻 All of my projects are available at https://github.com/IamJas6<br><br>💬 Ask me about Python, Django, AWS, Docker<br><br>📫 How to reach me suhailuddin2002@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1AJVkJm_VQY_YmFjCvH6YRDu4vED4NXla/view?usp=sharing<br><br>⚡ Fun fact I once accidentally set my phone’s alarm to "PM" instead of "AM," causing me to wake up just in time for lunch instead of breakfast—turning a typical morning into a brunch surprise!
+🌱 I’m currently learning 🐍Django,☸️Django_Rest_Framework<br><br>
+🤝 I’m looking for help with ⚙️API Creating Using ☸️Django_Rest_Framework<br><br>
+👨‍💻 All of my projects are available at https://github.com/IamJas6<br><br>
+💬 Ask me about Python, Django, SQL, HTML, CSS<br><br>
+📫 How to reach me suhailuddin2002@gmail.com<br><br>
+📄 Know about my experiences https://drive.google.com/file/d/14OIagc_1cTK6UVnjgXonvvbJle6JSn17/view?usp=sharing<br><br>
+⚡ Fun fact I once accidentally set my phone’s alarm to "PM" instead of "AM," causing me to wake up just in time for lunch instead of breakfast—turning a typical morning into a brunch surprise!
 
 <br/>
 
-<style>
-  p{
-    background-color: grey;
-  }
-</style>
-
 <div align="center">
 
-<p>
-  
 ## 🌐 Socials:
-
-</p>
 
 <p align=center">
 
