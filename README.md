@@ -1,5 +1,5 @@
 <h1 align="center"><h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Mohammed+Suhail+Uddin+👨🏻‍💻  ;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Mohammed+Suhail+Uddin+👨🏻‍💻+  ;" />
 <img height="40" src="https://i.pinimg.com/564x/f7/26/62/f72662c9ccf1c7d437827a374cb8d38e.jpg"  /></h1></h1>
 
 <div align="center">
@@ -12,11 +12,12 @@
 
 <br/>
 
-<center>
+<div align='center'>
   
 # 💫 About Me:
+  
+</div>
 
-</center>
 🔭I am open to new job opportunities, seeking roles where I can apply my skills in 🐍Dango, Python, SQl, and web development to contribute to innovative projects.<br><br>
 <img align="right" height="200" src="https://i.pinimg.com/originals/aa/59/d1/aa59d139b93dde70ff207187c9f1d8bd.gif"  />
 🌱 I’m currently learning 🐍Django,☸️Django_Rest_Framework<br><br>
