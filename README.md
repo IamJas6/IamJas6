@@ -10,8 +10,8 @@
   <img height="500" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"  />
 </div>
 
-<div align='center' style='text-align: justify';>
-  <h3>
+<div align='center'>
+  <h3 style="text-align: justify;">
     Discover a selection of innovative projects within this repository, including sophisticated Employee CRUD applications and extensive e-commerce solutions. Crafted with       
     Python and Django, these projects highlight advanced approaches to enhancing digital experiences.
   </h3>
