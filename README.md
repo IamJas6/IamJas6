@@ -1,5 +1,5 @@
 <h1 align="center"><h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Mohammed+Suhail+Uddin+👨🏻‍💻+  ;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Mohammed+Suhail+Uddin+👨🏻‍💻;" />
 <img height="40" src="https://i.pinimg.com/564x/f7/26/62/f72662c9ccf1c7d437827a374cb8d38e.jpg"  /></h1></h1>
 
 <div align="center">
@@ -10,7 +10,6 @@
 <h3 align="center">Discover a selection of innovative projects within this repository, including sophisticated Employee CRUD applications and extensive e-commerce solutions. Crafted with Python and Django, these projects highlight advanced approaches to enhancing digital experiences.</h3>
 <br/>
 
-<br/>
 
 <div align='center'>
   
@@ -26,7 +25,7 @@
 💬 Ask me about Python, Django, SQL, HTML, CSS<br><br>
 📫 How to reach me suhailuddin2002@gmail.com<br><br>
 📄 Know about my experiences https://drive.google.com/file/d/14OIagc_1cTK6UVnjgXonvvbJle6JSn17/view?usp=sharing<br><br>
-⚡ Fun fact I once accidentally set my phone’s alarm to "PM" instead of "AM," causing me to wake up just in time for lunch instead of breakfast—turning a typical morning into a brunch surprise!
+⚡ Fun fact I once accidentally set my phone’s alarm to "PM" instead of "AM," causing me to wake up just in time for lunch instead of breakfast turning a typical morning into a brunch surprise!
 
 <br/>
 
