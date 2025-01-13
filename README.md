@@ -43,7 +43,7 @@
 
 <div align="center">
   <span style="font-size: 1.5em;">
-    <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" style="width: 100px; height: 100px;" />
+    <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" style="width: 50px; height: 50px;" />
     <img src="https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white" style="width: 100px; height: 100px;" />
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white" style="width: 100px; height: 100px;" />
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" style="width: 100px; height: 100px;" />
