@@ -112,5 +112,7 @@
 <br/>
 
 <div align="center">
-<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=IamJas6&left_color=green&right_color=red&left_text=Visitors" />
+  
+![Visitor Count](https://profile-counter.glitch.me/IamJas6/count.svg)
+
 </div>
