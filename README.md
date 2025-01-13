@@ -19,9 +19,20 @@
 
 <br/>
 
+<style>
+  p{
+    background-color: grey;
+  }
+</style>
+
 <div align="center">
+
+<p>
   
 ## 🌐 Socials:
+
+</p>
+
 <p align=center">
 
 <a href="https://facebook.com/iamjas06"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
